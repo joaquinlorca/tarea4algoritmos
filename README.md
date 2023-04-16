@@ -1,2 +1,7 @@
 # tarea4algoritmos
-Tarea
+
+**IIC1001**
+
+Descripción: Esta es la actividad 4 del ramo algoritmos y sistemas computacionales
+
+Joaquín Lorca
